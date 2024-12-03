@@ -7,10 +7,10 @@ Requirements: Add features like search, filtering by category, and pagination fo
 Tools: Flask, MySQL/SQLite, Flask-SQLAlchemy
 
 Features:
-    -Secure authentication and authorization
-    - Efficient database operations
-    - paginated and filtered responses for large datasets
-    - Environment configuration
-    - Modular code organization
-    - Standardized API responses
-    - Comprehensive error handling
+ -Secure authentication and authorization
+ - Efficient database operations
+ - paginated and filtered responses for large datasets
+ - Environment configuration
+ - Modular code organization
+ - Standardized API responses
+ - Comprehensive error handling
