@@ -88,5 +88,4 @@ SECRET_KEY=your_secret_key
 
 For questions, suggestions, or issues, contact:
 
-- Email: `dandlapavankumar@gmail.com`
 - GitHub: [pavandandla](https://github.com/pavandandla)
