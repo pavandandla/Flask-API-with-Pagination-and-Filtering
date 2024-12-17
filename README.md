@@ -27,6 +27,12 @@ This project implements a **Flask REST API** that efficiently handles large data
 - **Comprehensive Error Handling**  
   Graceful error handling ensures proper communication of errors to API consumers.
 
+## Prerequisites
+
+- Python 3.9+
+- pip
+- Virtual environment support
+
 ## **Libraries Used**
 
 - **Flask**
